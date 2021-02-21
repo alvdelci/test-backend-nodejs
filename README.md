@@ -55,7 +55,7 @@
 - 
 <strong>Exibir Todos os Produtos Cadastrados Cuja Categoria foi Informada</strong>
 
-- url: localhost:5000/category
+- url: localhost:5000/read/category
 - Requisição via: POST
 - Entrada: category
 - Saída: Informações de todos os produtos que correspondem à pesquisa
