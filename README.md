@@ -1,5 +1,7 @@
 <h1>Backend Analyst Candidate Testing</h1>
 
+- API de gerenciamento de catálogo desenvolvida com JavaScript, NodeJS, Express e MongoDB
+
 <strong>Inicializar Servidor</strong>
 
 - yarn dev
